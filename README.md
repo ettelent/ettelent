@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   <a target="_blank" href="https://vk.com/zxcpizdecccc">
     <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
-
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ettelent&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
