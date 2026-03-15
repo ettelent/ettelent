@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<h2>
+<h2 align="center">
   My social!
 <h2>
 
