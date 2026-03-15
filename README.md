@@ -22,9 +22,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 <p align="center">
-  <a targer="_blank" href"https://t.me/churk9i" img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a target="_blank" href="https://t.me/churk9i">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a target="_blank" href="https://vk.com/ТВОЙ_ID">
+    <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" />
+  </a>
+
+  <a target="_blank" href="https://discord.com/users/ТВОЙ_ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ettelent&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
